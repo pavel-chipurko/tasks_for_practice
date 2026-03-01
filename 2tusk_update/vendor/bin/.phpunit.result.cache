@@ -1,0 +1,1 @@
+{"version":2,"defects":{"SearchIndexerTest::testUnique":7},"times":{"SearchIndexerTest::testByPrice":0.001,"SearchIndexerTest::testByName":0.001,"SearchIndexerTest::testUnique":0.001,"SearchIndexerTest::testEmpty":0.001}}

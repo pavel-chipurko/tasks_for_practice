@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"SearchServiceTest::testSearchByPrice":0.002,"SearchServiceTest::testSearchByName":0.001,"SearchServiceTest::testSearchByPriceOrName":0.001,"SearchServiceTest::testNoDuplicates":0.001,"SearchServiceTest::testEmptyResult":0.001}}

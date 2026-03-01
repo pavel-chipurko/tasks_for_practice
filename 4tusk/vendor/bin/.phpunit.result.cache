@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"CategoryStatsTest::testMaxBotCount":0.002,"CategoryStatsTest::testMinBotCount":0.001,"CategoryStatsTest::testSortingByPriority":0.001,"CategoryStatsTest::testWorksWithExtendedData":0.002,"CategoryStatsTest::testEmptyInput":0.001}}
